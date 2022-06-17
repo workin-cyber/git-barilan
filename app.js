@@ -1,4 +1,4 @@
 let num = 10;
-num = num **2;
-let num2 = 5
+num = num **4;
+let num2 = 100
 console.log(num/num2);
