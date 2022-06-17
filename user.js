@@ -1,3 +1,5 @@
 const user = {
-    name : "orly"
+    name : "benni"
 }
+
+console.log(user.name);
